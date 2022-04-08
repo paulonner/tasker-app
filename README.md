@@ -34,6 +34,10 @@ Todos los datos son almacenados en un archivo `db.json` y es controlado por `jso
 yarn run server | Inicializa por defecto el servidor en el puerto 3001
 ```
 
+```
+yarn run seed | Genera 50 tareas aleatorias, completadas consumiendo entre el 80% y el 100% de su duración
+```
+
 
 ## Autor ✒️
 **Paulo Martinez** - *Trabajo Inicial* - [paulonner](https://github.com/paulonner)
